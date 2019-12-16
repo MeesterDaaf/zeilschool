@@ -10,6 +10,10 @@
 </head>
 
 <body>
+
+<h1 class="heade"></h1>
+
+
     @yield('menu')
     <div class="container">
         @yield('content')
